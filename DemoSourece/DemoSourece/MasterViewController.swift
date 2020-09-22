@@ -56,6 +56,10 @@ class MasterViewController: UITableViewController {
     func newFunc() {
         // Đây là một chức năng mới
     }
+    
+    func newFunc2() {
+        // Đây là một chức năng mới 2
+    }
 
     // MARK: - Table View
 
